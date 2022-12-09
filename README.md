@@ -9,3 +9,6 @@
 *Under Construction*
 
 # Contribution 
+
+# License
+go-swag-redoc is released under the MIT License.
