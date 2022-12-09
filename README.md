@@ -1,5 +1,5 @@
 # redoc-go
-**redoc-go** is a Go package that generates Redocly documentation from Swag documentation or OpenAPI defnitions.
+**redoc-go** is a Go package that generates **Redoc documentation** from Swag documentation or OpenAPI defnitions.
 
 # Features
 - Generates a complete [Redoc](https://redocly.com/redoc/) HTML documentation file (redoc.html) from Swag documentation.
