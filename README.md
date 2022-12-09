@@ -11,4 +11,4 @@
 # Contribution 
 
 # License
-go-swag-redoc is released under the MIT License.
+go-swag-redoc is released under the [MIT License](https://opensource.org/licenses/MIT).
