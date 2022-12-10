@@ -1,4 +1,4 @@
-## redoc-go
+## Redoc-Go
 **redoc-go** is a Go package that generates **Redoc documentation** from Swag documentation or OpenAPI defnitions.
 
 ## Features
